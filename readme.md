@@ -24,6 +24,9 @@ Source of position can be `TinkoffProvider` GetPositions() or `Sum Handler` that
 Tinkoff invest api methods:
 - [GetPositions](https://tinkoff.github.io/investAPI/operations/#getpositions)
 
+### Wallet
+![Position scheme](./src/wallet/Wallet.drawio.svg)
+
 ### Candle
 ![Candle scheme](./src/candle/Candle.drawio.svg)
 
