@@ -1,4 +1,4 @@
-# Deep-tinkoff-invest-api package
+# Deep-profitmaker package
 ## This package is work in progress.
 
 ### Account
