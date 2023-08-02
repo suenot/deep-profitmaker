@@ -55,6 +55,9 @@ Tinkoff invest api methods:
 Orders from the marker and from users are the same stucture.
 Also can be SmartOrders (bot with grids, trailings, strategies) that can have child Orders.
 
+#### Engine
+![Engine scheme](./src/engine/Engine.drawio.svg)
+
 Tinkoff invest api methods:
 - [PostOrder](https://tinkoff.github.io/investAPI/orders/#postorder)
 - [CancelOrder](https://tinkoff.github.io/investAPI/orders/#cancelorder)
