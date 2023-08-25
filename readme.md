@@ -58,6 +58,9 @@ Also can be SmartOrders (bot with grids, trailings, strategies) that can have ch
 #### Engine
 ![Engine scheme](./src/engine/Engine.drawio.svg)
 
+#### Strategy
+![Strategy scheme](./src/strategy/Strategy.drawio.svg)
+
 Tinkoff invest api methods:
 - [PostOrder](https://tinkoff.github.io/investAPI/orders/#postorder)
 - [CancelOrder](https://tinkoff.github.io/investAPI/orders/#cancelorder)
